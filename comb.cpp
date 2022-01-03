@@ -17,11 +17,11 @@ void comb::coutcomb() {
 }
 
 double comb::getcombval(){
-    /*Обчилює та повертає "цінність" комбінації у вигляді числа А.В
-      де А найбільша кількість однакових кубиків,а В - їхнє значення.
-      Таким чином комбінація з більшою к-стю однакових кубиків завжди
-      більш цінна, а якщо кількість однакова, цінність визначається по
-      значенню кубиків */
+    /*Calculates and returns the "value" of the combination as number A.B.
+      where A is the greatest number of identical dice, and B is their value.
+      Thus a combination with more identical dice is always
+      is always more valuable, and if the number is the same, the value is determined by the
+      value of dice. */
     for(int j=0;j<5;j++) {
         double rs=currentcomb[j]/10.0;
         for (int i = 0; i < 5; i++) {
