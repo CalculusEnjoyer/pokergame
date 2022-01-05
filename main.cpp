@@ -5,7 +5,7 @@
 int main(){
     comb p1,p2;
     std::vector <double> p1results, p2results;
-    p1.setM(6);
+    p1.setM(6); //test
     p2.setM(13);
     while(true){
         p1.getcomb();
