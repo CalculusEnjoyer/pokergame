@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/pokergame/cmake-build-debug/CMakeFiles/POKER.dir
+C:/Users/Lenovo/Desktop/pokergame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/pokergame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
